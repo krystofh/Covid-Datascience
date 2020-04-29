@@ -10,7 +10,7 @@ Data source: https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19
 ![New cases of Covid-19](https://github.com/krystofh/Covid-Datascience/blob/master/plots/new-cases-graph.png)
 
 **Medical tests per day:**<br><br>
-![Medical test](https://github.com/krystofh/Covid-Datascience/new_tests.png)
+![Medical test](https://github.com/krystofh/Covid-Datascience/blob/master/plots/new_tests.png)
 
 **Age of the patients:**<br><br>
-![Age](https://github.com/krystofh/Covid-Datascience/age.png)
+![Age](https://github.com/krystofh/Covid-Datascience/blob/master/plots/age.png)
